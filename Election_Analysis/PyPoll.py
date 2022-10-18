@@ -1,4 +1,4 @@
-#The data we need to retrieve.
+#The data we need to retrieve. 
 # 1. The total numbers of votes cast.
 # 2. A complete list of the candidates who received votes.
 # 3. The percentage of votes each candidate won.
